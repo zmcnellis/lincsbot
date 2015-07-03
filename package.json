@@ -1,0 +1,12 @@
+{
+  "name": "lincsbot",
+  "version": "0.0.0",
+  "description": "Everything",
+  "main": "index.js",
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.13.1",
+    "express": "^4.13.0"
+  }
+}
