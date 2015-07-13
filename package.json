@@ -2,7 +2,7 @@
   "name": "lincsbot",
   "version": "0.0.0",
   "description": "Everything",
-  "main": "lincsbot.js",
+  "main": "index.js",
   "author": "",
   "license": "ISC",
   "dependencies": {
