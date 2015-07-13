@@ -9,6 +9,8 @@
     "body-parser": "^1.13.1",
     "coffee-script": "^1.9.3",
     "express": "^4.13.0",
-    "slack-client": "^1.4.1"
+    "log": "^1.4.0",
+    "slack-client": "^1.4.1",
+    "ws": "^0.7.2"
   }
 }
