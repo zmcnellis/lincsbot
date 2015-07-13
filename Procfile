@@ -1,1 +1,1 @@
-web: node lincsbot.js
+web: node lincsbot
