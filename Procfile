@@ -1,1 +1,1 @@
-web: node lincsbot
+web: node lincsbot --adapter slack
